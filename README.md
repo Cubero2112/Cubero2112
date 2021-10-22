@@ -46,6 +46,7 @@
   
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cubero2112&show_icons=true&locale=en" alt="cubero2112" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cubero2112&show_icons=true&locale=en" alt="cubero2112" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cubero2112&layout=compact)](https://github.com/Cubero2112/github-readme-stats)
+</p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cubero2112&label=Profile%20views&color=0e75b6&style=flat" alt="cubero2112" /> </p>
