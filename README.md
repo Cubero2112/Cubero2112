@@ -44,14 +44,6 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
-    <!--
- <p align="justify">
-<a href="https://github.com/Cubero2112">
-  <img height=150 src = "https://github-readme-stats.vercel.app/api?username=Cubero2112&show_icons=true&theme=chartreuse-dark&line_height=27">
-  <img height=150 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cubero2112&hide=scss,css,html&theme=chartreuse-dark&layout=compact">
-</a> 
--->
-
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cubero2112&show_icons=true&locale=en" alt="cubero2112" />
 </p>
